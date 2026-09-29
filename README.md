@@ -1,3 +1,5 @@
+# METHOD HAS BEEN PATCHED, USE THIS TO BUILD ON.
+
 # Hyperion Injector
 
 This injector safely maps a dll into memory in a suspended state, protecting it from hyperion's queries and yara scans via an instrumentation callback. <br>
